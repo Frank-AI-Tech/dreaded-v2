@@ -69,7 +69,7 @@ await client.query(`
 
         const defaultSettings = {
             prefix: '.',
-            packname: 'dreaded md2 🤖',
+            packname: 'confronter🪓',
             mode: 'public',
             presence: 'typing',
             autoview: 'true',
@@ -77,7 +77,7 @@ await client.query(`
             autoread: 'false',
             autobio: 'false',
             anticall: 'false', 
-            reactEmoji: '❤️'  
+            reactEmoji: '🌝'  
         };
 
         for (const [key, value] of Object.entries(defaultSettings)) {
